@@ -3,6 +3,7 @@
 The Fintech Customer & Loan Dashboard is an interactive Power BI report designed to provide deep insights into customer behavior, loan approval patterns, and account-level performance in the fintech sector. Developed using Power BI and data processed in Excel, this dashboard helps stakeholders monitor business KPIs, identify risks, and optimize decision-making.
 
 🔍 Project Highlights:
+
 Loan Approval Analysis:
 Breaks down loan statuses to identify approval trends and rejection reasons.
 
